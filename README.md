@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+
+![App Screenshot](https://github.com/sc16141/Product-Quote-Builder-/raw/main/assets/images/screenshot/Screenshot%202025-11-10%20005936.png)
+
 ![Form Screenshot](assets/images/screenshot/Screenshot%202025-11-09%20215106.png)
 This project is a starting point for a Flutter application.
 
